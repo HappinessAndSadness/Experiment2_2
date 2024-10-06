@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">linearlayouttext</string>
+    <string name="table_layout_4_open">Open...</string>
+    <string name="table_layout_4_open_shortcut">Ctrl-O</string>
+    <string name="table_layout_4_save">Save...</string>
+    <string name="table_layout_4_save_shortcut">Ctrl-S</string>
+    <string name="table_layout_4_save_as">Save As...</string>
+    <string name="table_layout_4_save_as_shortcut">Ctrl-Shift-S</string>
+    <string name="table_layout_4_import">Import...</string>
+    <string name="table_layout_4_import_shortcut"></string>
+    <string name="table_layout_4_export">Export...</string>
+    <string name="table_layout_4_export_shortcut">Ctrl-E</string>
+    <string name="table_layout_4_quit">Quit...</string>
+    <string name="table_layout_4_quit_shortcut"></string>
+</resources>
